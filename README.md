@@ -55,8 +55,7 @@ You can also add HTML and CSS directly on the page.  The popup element you wish 
 You can also use the JS file from JSDelivr
 
 ```
-https://cdn.jsdelivr.net/gh/oleteacher/Qik-Exit-Intent-Popup@main/js/bioep.min.js
-
+<script src="https://cdn.jsdelivr.net/gh/oleteacher/Qik-Exit-Intent-Popup@main/js/bioep.min.js"></script>
 ```
 
 # Template
